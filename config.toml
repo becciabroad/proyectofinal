@@ -95,19 +95,19 @@ disqusShortname = ""
       title = "Introducción al proyecto"
       subtitle = "Armando la página y limpiando los datos"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/intro"
 
     [[params.tiles.showcase]]
       title = "Datos Historicos del Comercio Exterior"
       subtitle = "El desarrollo histórico del comercio exterior en América Latina"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/historico"
 
     [[params.tiles.showcase]]
       title = "¿Qué país importa más?"
       subtitle = "Analisis de qué país importa más en América Latina"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/exportacion"
 
     [[params.tiles.showcase]]
       title = "¿Qué productos se exporta?"

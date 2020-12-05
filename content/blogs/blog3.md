@@ -8,8 +8,8 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic08.jpg
+image: pic03.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: exportacion
+title: ¿Qué país importa más?
 ---
