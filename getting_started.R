@@ -10,3 +10,4 @@ blogdown::new_site(theme = 'MarcusVirg/forty')
 #New posts will be created as .rmd files and with pre-set author
 file.edit('~/.Rprofile')
 options(blogdown.ext = '.Rmd', blogdown.author = 'Rebecca Hoffmann')
+
