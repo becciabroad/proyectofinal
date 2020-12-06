@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/"
+baseURL = "https://comercio-latam.netlify.app/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
