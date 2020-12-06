@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://comercio-latam.netlify.app"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Comercio América Latina"
+    subtitle = "By Rebecca Hoffmann"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Introducción al proyecto"
       subtitle = "Armando la página y limpiando los datos"
       image = "pic01.jpg"
-      url = "blogs/intro"
+      url = "blogs/introduccion"
 
     [[params.tiles.showcase]]
       title = "Datos Historicos del Comercio Exterior"
@@ -111,7 +111,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "¿Qué productos se exporta?"
-      subtitle = "Analisis de qué productos se exportan en América Latina"
+      subtitle = "Analisis del tipo de productos que se exportan en América Latina"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
