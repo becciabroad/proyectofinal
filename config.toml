@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://comercio-latam.netlify.app/"
+baseURL = "https://comercio-latam.netlify.app"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
@@ -175,7 +175,6 @@ disqusShortname = ""
     [[params.contact.email]]
     title = "Email"
     email = "hola@becci.dk"
-
 
     [[params.contact.address]]
     title = "Address"

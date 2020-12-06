@@ -17,4 +17,3 @@ options(blogdown.ext = '.Rmd', blogdown.author = 'Rebecca Hoffmann')
 # Generando un nuevo blog post para testear si global settings functionan
 # y para vertificar que el formato .rmd funciona en el diseño elegido 
 blogdown::new_post(title = "introduccion")
-blogdown::new_content(path = "blog6", ".Rmd")
