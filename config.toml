@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://comercio-latam.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Introducción al proyecto"
       subtitle = "Armando la página y limpiando los datos"
       image = "pic01.jpg"
-      url = "blogs/introduccion"
+      url = "blogs/2020-12-06-introduccion"
 
     [[params.tiles.showcase]]
       title = "Datos Historicos del Comercio Exterior"

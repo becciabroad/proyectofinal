@@ -1,0 +1,27 @@
+---
+title: Introduccion
+author: Rebecca Hoffmann
+date: '2020-12-06'
+slug: []
+categories:
+  - Blogs
+tags: []
+description: ''
+image: 'pic01.jpg'
+keywords: ''
+draft: no
+output:
+  blogdown::html_page
+  
+---
+
+You can embed an R code chunk like this:
+
+```{r intro}
+library(blogdown)
+
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+

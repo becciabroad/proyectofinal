@@ -6,4 +6,4 @@ slug: blogs
 title: Comercio Exterior en América Latina
 ---
 
-Proyecto Final de Herramientas Cuantitativas para el Análisis Político utilizando Open Trade Statistics
+Proyecto Final de Herramientas Cuantitativas para el Análisis Político utilizando Open Trade Statistics y BlogDown
