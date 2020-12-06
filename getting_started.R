@@ -1,4 +1,5 @@
 # Para empezar a armar la pagina web aprendo la libraría de blogdown
+
 library(blogdown)
 blogdown::install_hugo()
 
